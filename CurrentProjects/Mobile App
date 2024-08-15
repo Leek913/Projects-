@@ -1,0 +1,6 @@
+One of the current projects that I have worked on has been for a company overseas. The project uses flutter, dart, and json to achieve the 
+desired output. However the original code was written in vba for excel, i had to translate it to previously mentioned program languages 
+to accomplish the same task. The company specialized in natural stone and they wanted me to created an mobile app that 
+allowed users to pick certain selections from dropdown widgets and based on the selections that they made, multiple stones will show 
+up as results allowing the user to see what the best stone will be for them. The dart code uses multiple animation to bring life to ceratin 
+pages and there was navigation from page to page. 

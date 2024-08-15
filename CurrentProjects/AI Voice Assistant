@@ -1,0 +1,8 @@
+This is a current project that I have been working on. The code uses a python file to immitate speaking to an AI voice assistant
+that has the capabilities to perfomr certain tasks on your computer and potientially around your home. Soon, the AI will be able
+to use natual language processing to develop unique responses to every question ask to make conversation feel more fluid and natural. 
+As of now the AI is currently able to pull up/navigate desktop pages, give an accurate answer for the current weather, set timers, and refer
+to wikipedia to answer any who or what kind questions. There are many future capabiblites that will be added, with a focus on NLPs and 
+home automation. As of right now, responses are stored within my JSON file. My python file then navigates to the json file when it hears
+the correct key word/key phrases, and then chooses randomly from 7-8 responses to create the impression that it is always giving a unique 
+responds. This is a beginners project and hopefully in the future, the AI itself will become more advance. 
